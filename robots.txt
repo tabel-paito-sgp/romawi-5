@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://tabel-paito-sgp.github.io/romawi-5/sitemap.xml
